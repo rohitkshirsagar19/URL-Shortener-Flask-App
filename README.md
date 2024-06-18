@@ -9,3 +9,6 @@ Technologies Used:
 Flask: A micro web framework for Python.
 Bitly API: A URL shortening service provided by Bitly.
 Python: The programming language used to build the application.
+
+
+Deployment Link: https://url-shortener-flask-app-1.onrender.com

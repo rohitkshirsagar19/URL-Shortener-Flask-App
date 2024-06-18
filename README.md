@@ -1,5 +1,5 @@
-
 #URL Shortener Web Application
+
 This project is a simple Flask-based web application that allows users to shorten URLs using the Bitly API. The app takes a long URL as input and returns a shortened URL, making it easy to share and manage links.
 
 Features

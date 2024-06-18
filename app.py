@@ -23,6 +23,6 @@ def index():
         return render_template('index.html', short_url=short_url)
     return render_template('index.html', short_url=None)
 
-if __name__ == '__main__':
-    print(Logo)
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     print(Logo)
+#     app.run(debug=True)
